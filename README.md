@@ -8,7 +8,10 @@ FLY is a paper plane throwing competition, organized for ENEI 2018, where you ca
 Rules
 ---
 
-* You can participate only once
+* Participation:
+  * You have to be an ENEI 2018 participant
+  * You can participate in the FLY competition only once
+  * Find our booth and talk to us to enter the competition
 
 * To win:
 	* Keep the paper plane in the air for the longest time possible
@@ -21,7 +24,7 @@ Rules
 
 * To compete:
 	* You have 2 throws, the best one counts
-	* The paper plane's trajectory should not be influenced by external factors
+	* The paper plane's trajectory should not be influenced by external factors that give it an unfair advantage
 	* You cannot use external tools to throw the plane
 
 * Draws:
