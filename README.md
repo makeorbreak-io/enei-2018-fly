@@ -26,6 +26,7 @@ Rules
 	* You have 2 throws, the best one counts
 	* The paper plane's trajectory should not be influenced by external factors that give it an unfair advantage
 	* You cannot use external tools to throw the plane
+  * The jury has to acknowledge that your "plane" qualifies as a paper plane
 
 * Draws:
 	* Drawn participants will re-throw until there are no more draws
